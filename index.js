@@ -6,9 +6,7 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-  if (animal !== 'cat') {
-    return 'cat';
-  }
+ let animal = 'cat';
   return animal
 }
 
